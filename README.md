@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
+- Solution URL: [https://github.com/alicianap/NTF-preview-card-component--git/tree/main/design]
 - Live Site URL: [https://ntf-preview-card-component.netlify.app/]
 - 
 ## My process
