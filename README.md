@@ -21,13 +21,13 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-
+https://github.com/alicianap/NTF-preview-card-component--git/blob/main/Screenshot.png
 
 ### Links
 
 - Solution URL: [https://github.com/alicianap/NTF-preview-card-component--git/tree/main/design]
 - Live Site URL: [https://ntf-preview-card-component.netlify.app/]
-- 
+
 ## My process
 ### Built with
 
