@@ -44,8 +44,12 @@ https://github.com/alicianap/NTF-preview-card-component--git/blob/main/Screensho
 - I could not perform the "active" state of the main image. It is an issue that I continue to test how to solve, and look for material about it.
 - It took me a long time to finish this challenge, which is the first one I did in my entire life, but I hope to continue learning even more with the next ones.
 
-
 ### Useful resources
+https://developer.mozilla.org/es/docs/Learn/CSS/CSS_layout/Flexbox
+https://www.w3schools.com/css/css3_flexbox.asp
+https://www.w3schools.com/css/css_pseudo_classes.asp
+...and of course, several Youtube videos
+
 ## Author
 My name is Alicia Napolitano. 
 I am an "old" student of the subject of programming, but not for that reason with less desire to continue learning.
