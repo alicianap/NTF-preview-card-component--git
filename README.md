@@ -21,7 +21,7 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-https://github.com/alicianap/NTF-preview-card-component--git/blob/main/Screenshot.bmp
+https://github.com/alicianap/NTF-preview-card-component--git/blob/main/Screenshot.png
 
 ### Links
 
