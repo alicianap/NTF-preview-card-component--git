@@ -45,9 +45,9 @@ https://github.com/alicianap/NTF-preview-card-component--git/blob/main/Screensho
 - It took me a long time to finish this challenge, which is the first one I did in my entire life, but I hope to continue learning even more with the next ones.
 
 ### Useful resources
-https://developer.mozilla.org/es/docs/Learn/CSS/CSS_layout/Flexbox
-https://www.w3schools.com/css/css3_flexbox.asp
-https://www.w3schools.com/css/css_pseudo_classes.asp
+## https://developer.mozilla.org/es/docs/Learn/CSS/CSS_layout/Flexbox
+## https://www.w3schools.com/css/css3_flexbox.asp
+## https://www.w3schools.com/css/css_pseudo_classes.asp
 ...and of course, several Youtube videos
 
 ## Author
